@@ -9,15 +9,10 @@ It is a React.js web application which will help you to improve your typing spee
 
 
 ## Tech-stack Used
-- React.js
+- HTML
 - CSS
 - JavaScript
 
-
-
-## Prerequisites
-
-Make sure you have node.js installed.
 
 
 ## Setting up locally
