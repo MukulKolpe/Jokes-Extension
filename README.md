@@ -25,18 +25,7 @@ It is a React.js web application which will help you to improve your typing spee
  ```
  cd type-fast
  ```
-4. Install node modules
- ```
- yarn install
- ```
-5. 
- ```
- yarn start
- ```
-   
-
-## Deployed [here](https://type-fast-bymukul.netlify.app/)
-
+ 
 ## License
 
-### [MIT License](https://github.com/MukulKolpe/type-fast/blob/main/LICENSE)
+### [MIT License](https://github.com/MukulKolpe/Jokes-Extension/blob/main/LICENSE)
