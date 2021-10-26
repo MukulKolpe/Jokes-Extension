@@ -19,11 +19,11 @@ It is a React.js web application which will help you to improve your typing spee
 1. Fork this repository.
 2. clone it.
  ```
- git clone https://github.com/YOUR_GITHUB_UserName/type-fast
+ git clone https://github.com/YOUR_GITHUB_UserName/Jokes-Extension
  ```
 3. 
  ```
- cd type-fast
+ cd Jokes-Extension
  ```
  
 ## License
