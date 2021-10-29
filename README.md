@@ -1,7 +1,7 @@
 # Jokes-Extension
 
 ## Description
-It is a React.js web application which will help you to improve your typing speed.
+This is a Chrome-Extension which shows you jokes.
 
 ## [Code of Conduct](https://github.com/MukulKolpe/type-fast/blob/main/CODE_OF_CONDUCT.md)
 
